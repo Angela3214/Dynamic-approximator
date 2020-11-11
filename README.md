@@ -1,2 +1,3 @@
 # Dynamic-approximator
 I made a program that shows dynamic smoothing of a polynomial to an approximated function on an arbitrary segment
+That the program has started to work for your settings, enter the function f(x) (make it simple, numpy and scipy allow you to implement everything, until then came the modern algebra and Calculus) , then adjust the interval for x (if the interval for x small enough, you can reduce the step to their default values), then enter the set points and view, that will give the program, then you can add the number of points and to see the dynamics of the smoothing polynomial to the function
